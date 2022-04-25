@@ -26,14 +26,18 @@ Following notice of possible academic dishonesty among ninth graders at Thomas H
   
   ![This is an image](https://github.com/JaimeStarling/School_District_Analysis/blob/main/Spending%20Summary%20DF%20After.png)
   
-- The Spending Summary (below) shows the percentages of student scores separated by ranges of dollar amounts. For Thomas High School, who spends $638         per student and is placed at the very center of the $631-645 range, continues to maintain higher scores than other schools with similar spending.
+- The Spending Summary (below) shows the percentages of student scores separated by ranges of dollar amounts. For     Thomas High School, who spends $638     per student and is placed at the very center of the $631-645 range, continues to maintain higher scores than other schools with similar spending.
 
   ![This is an image](https://github.com/JaimeStarling/School_District_Analysis/blob/main/School%20Size%20DF%20After.png)
 
+- The School Type Summary (below) shows the percentages of student scores separated by type of school, in this case, District and Charter. Thomas High       School is a Charter school whose adjusted scores did not affect the averages and minimally shifted the percentage passing:
 
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+  ![This is an image](https://github.com/JaimeStarling/School_District_Analysis/blob/main/School%20Type%20After.png)
+
+## Affects of the adjusted analysis
+
+- Because Thomas High School ninth graders make up only 1.2 percent of the PyCitySchools, the district's scores were mostly unaffected by the nulling of     461 students' contribution. However, ninth graders make up 28 percent of Thomas High School, and so the missing scores did start to vary the results from   the previous analysis, helping only the reading average. While we could change the average of money spent per student by adjusting the count of provided   scores, it doesn't change the fact that the ninth graders are very much part of Thomas High School.
 
 
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+
 
